@@ -19,4 +19,4 @@
 <br>
 <br>
 
-<p align="center">↻</p>
+<p align="center"><button onClick="window.location.reload();">↻</button></p>
