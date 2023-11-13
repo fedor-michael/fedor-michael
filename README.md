@@ -20,3 +20,4 @@
 <br>
 
 <p align="center"><button onClick="window.location.reload();">↻</button></p>
+<button onClick="window.location.href=window.location.href">Refresh Page</button>
